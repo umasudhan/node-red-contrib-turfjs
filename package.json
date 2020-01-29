@@ -12,7 +12,7 @@
   },
   "node-red": {
     "nodes": {
-      "turf": "turfjs.js"
+      "turfjs": "turfjs.js"
     }
   },
   "keywords": [
